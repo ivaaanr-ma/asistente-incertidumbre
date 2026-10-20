@@ -1,0 +1,7 @@
+streamlit
+uncertainties
+pandas
+plotly
+fpdf2
+matplotlib
+numpy
